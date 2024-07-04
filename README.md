@@ -1,4 +1,4 @@
-# SAXS-Analysis-Empa-CXA
+# SAXS-Data-Processing-Empa-CXA
 Python/Jupyter tools for Small-Angle X-ray Scattering data processing
 
 <h1 align="center">
